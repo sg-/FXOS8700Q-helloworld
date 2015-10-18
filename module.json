@@ -1,0 +1,19 @@
+{
+  "name": "FXOS8700Q-helloworld",
+  "bin": "./source",
+  "version": "0.0.0",
+  "keywords": [],
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "author": "",
+  "private": false,
+  "dependencies": {
+    "FXOS8700Q": "^0.0.1"
+  },
+  "targetDependencies": {},
+  "testDependencies": {}
+}
