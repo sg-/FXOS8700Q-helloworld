@@ -1,5 +1,5 @@
 {
-  "name": "FXOS8700Q-helloworld",
+  "name": "fxos8700q-helloworld",
   "bin": "./source",
   "version": "0.0.0",
   "keywords": [],
@@ -12,7 +12,8 @@
   "author": "",
   "private": false,
   "dependencies": {
-    "FXOS8700Q": "^0.0.1"
+    "mbed-drivers": "*",
+    "fxos8700q": "*"
   },
   "targetDependencies": {},
   "testDependencies": {}
